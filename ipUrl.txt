@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/nuu987/acc/refs/heads/main/ipHK.txt@45.192.222.245
+https://raw.githubusercontent.com/nuu987/acc/refs/heads/main/ipUS.txt@101.32.47.154
